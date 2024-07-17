@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E068310C-EF41-4179-9B4B-30B0A38A57D2}|ProjectSolutions\\Challenge1.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\projectsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E068310C-EF41-4179-9B4B-30B0A38A57D2}|ProjectSolutions\\Challenge1.csproj|solutionrelative:projectsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F8D6D24-8B74-4FB9-8B48-C927A56F7424}|Challenge2\\Challenge2.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8D6D24-8B74-4FB9-8B48-C927A56F7424}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8D6D24-8B74-4FB9-8B48-C927A56F7424}|Challenge2\\Challenge2.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\challenge2\\cardata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F8D6D24-8B74-4FB9-8B48-C927A56F7424}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\cardata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarData.txt",
+              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge2\\CarData.txt",
+              "RelativeDocumentMoniker": "Challenge2\\CarData.txt",
+              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge2\\CarData.txt",
+              "RelativeToolTip": "Challenge2\\CarData.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-17T14:54:34.568Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\ProjectSolutions\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectSolutions\\Program.cs",
-              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\ProjectSolutions\\Program.cs",
-              "RelativeToolTip": "ProjectSolutions\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBgAAAAeAAAA",
+              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge2\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge2\\Program.cs",
+              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge2\\Program.cs",
+              "RelativeToolTip": "Challenge2\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T13:27:41.457Z",
+              "WhenOpened": "2024-07-17T14:41:31.512Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,14 @@
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\bin\Debug\ProjectSolutions.exe.config
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\bin\Debug\ProjectSolutions.exe
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\bin\Debug\ProjectSolutions.pdb
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\obj\Debug\ProjectSolutions.exe
+C:\Users\AdamW\source\repos\ProjectSolutions\ProjectSolutions\obj\Debug\ProjectSolutions.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\bin\Debug\ProjectSolutions.exe.config
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\bin\Debug\ProjectSolutions.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\bin\Debug\ProjectSolutions.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\obj\Debug\ProjectSolutions.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\ProjectSolutions\obj\Debug\ProjectSolutions.pdb

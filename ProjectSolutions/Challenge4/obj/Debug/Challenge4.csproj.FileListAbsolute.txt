@@ -1,0 +1,7 @@
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\bin\Debug\Challenge4.exe.config
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\bin\Debug\Challenge4.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\bin\Debug\Challenge4.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\obj\Debug\Challenge4.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\obj\Debug\Challenge4.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\obj\Debug\Challenge4.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge4\obj\Debug\Challenge4.pdb

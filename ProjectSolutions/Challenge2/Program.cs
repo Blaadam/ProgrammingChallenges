@@ -69,27 +69,6 @@ namespace Challenge2
                     }
                 }
             }
-
-
-
-            //var File = new StreamReader(filePath, Encoding.UTF8);
-            //int rowCount = 0;
-            //while (!File.EndOfStream)
-            //{
-            //    // Exclude headers
-            //    if (rowCount == 0) { continue; }
-            //    string Row = File.ReadLine();
-            //    var Data = Row.Split(',');
-
-            //    string LicensePlate = Data[0];
-            //    int TimeTaken = Int32.Parse(Data[1]);
-            //    Console.WriteLine(LicensePlate);
-            //    Console.WriteLine(TimeTaken);
-            //}
-
-            //Console.WriteLine("");
-            //TimeSpan StartEpoch = (DateTime.UtcNow - new DateTime(1970, 1, 1));
-            //Console.WriteLine();
             Console.ReadKey();
         }
     }

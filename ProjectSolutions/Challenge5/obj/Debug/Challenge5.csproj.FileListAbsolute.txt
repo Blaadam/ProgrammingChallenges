@@ -1,0 +1,7 @@
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\bin\Debug\Challenge5.exe.config
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\bin\Debug\Challenge5.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\bin\Debug\Challenge5.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\obj\Debug\Challenge5.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\obj\Debug\Challenge5.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\obj\Debug\Challenge5.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge5\obj\Debug\Challenge5.pdb

@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59B14CBB-CEB2-4EBF-9154-1A383EDF32E2}|Challenge4\\Challenge4.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B14CBB-CEB2-4EBF-9154-1A383EDF32E2}|Challenge4\\Challenge4.csproj|solutionrelative:challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B14CBB-CEB2-4EBF-9154-1A383EDF32E2}|Challenge4\\Challenge4.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\challenge4\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B14CBB-CEB2-4EBF-9154-1A383EDF32E2}|Challenge4\\Challenge4.csproj|solutionrelative:challenge4\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B14CBB-CEB2-4EBF-9154-1A383EDF32E2}|Challenge4\\Challenge4.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\challenge4\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B14CBB-CEB2-4EBF-9154-1A383EDF32E2}|Challenge4\\Challenge4.csproj|solutionrelative:challenge4\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F4414A5-54DF-4FCD-93E8-86ECE661A9E0}|Challenge5\\Challenge5.csproj|c:\\users\\adamw\\source\\repos\\programmingchallenges\\projectsolutions\\challenge5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4414A5-54DF-4FCD-93E8-86ECE661A9E0}|Challenge5\\Challenge5.csproj|solutionrelative:challenge5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge4\\Question.cs",
-              "RelativeDocumentMoniker": "Challenge4\\Question.cs",
-              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge4\\Question.cs",
-              "RelativeToolTip": "Challenge4\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T20:57:14.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge4\\Animal.cs",
-              "RelativeDocumentMoniker": "Challenge4\\Animal.cs",
-              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge4\\Animal.cs",
-              "RelativeToolTip": "Challenge4\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T20:37:27.742Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge4\\Program.cs",
-              "RelativeDocumentMoniker": "Challenge4\\Program.cs",
-              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge4\\Program.cs",
-              "RelativeToolTip": "Challenge4\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAUwDwAAAAcAAAA",
+              "DocumentMoniker": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge5\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge5\\Program.cs",
+              "ToolTip": "C:\\Users\\AdamW\\source\\repos\\ProgrammingChallenges\\ProjectSolutions\\Challenge5\\Program.cs",
+              "RelativeToolTip": "Challenge5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T20:32:48.119Z",
+              "WhenOpened": "2024-07-18T07:04:37.383Z",
               "EditorCaption": ""
             }
           ]

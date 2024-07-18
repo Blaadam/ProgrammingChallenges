@@ -1,0 +1,7 @@
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\bin\Debug\Challenge8.exe.config
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\bin\Debug\Challenge8.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\bin\Debug\Challenge8.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\obj\Debug\Challenge8.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\obj\Debug\Challenge8.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\obj\Debug\Challenge8.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge8\obj\Debug\Challenge8.pdb

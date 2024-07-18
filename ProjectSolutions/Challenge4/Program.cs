@@ -8,20 +8,6 @@ namespace Challenge4
 {
     internal class Program
     {
-        //static List<Animal> RemoveEntries(List<Animal> Animals, string Value, bool IsTrue)
-        //{
-        //    foreach (Animal animal in Animals)
-        //    {
-        //        var property = animal.GetType().GetProperty(Value);
-        //        if (property.GetValue(animal, null).ToString() != IsTrue.ToString())
-        //        {
-        //            Animals.Remove(animal);
-        //        }
-        //    }
-
-        //    return Animals;
-        //}
-
         static List<Animal> RemoveEntries(List<Animal> Animals, string propertyName, bool condition)
         {
             for (int i = Animals.Count - 1; i >= 0; i--)
@@ -51,11 +37,8 @@ namespace Challenge4
                 Console.Clear();
                 Console.WriteLine(Questions[i].QuestionName);
                 string Response = Console.ReadLine().ToLower();
-                if (Response.Substring(0, 1) == "y")
-                {
-                    Animals = RemoveEntries(Animals, Questions[i].Value, true);
-                    continue;
-                }
+
+                Animals = RemoveEntries(Animals, Questions[i].Value, Response.Substring(0, 1) == "y");
             }
 
             Console.Clear();

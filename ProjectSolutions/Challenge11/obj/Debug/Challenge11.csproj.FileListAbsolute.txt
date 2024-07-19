@@ -1,0 +1,15 @@
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\bin\Debug\Challenge11.exe.config
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\bin\Debug\Challenge11.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\bin\Debug\Challenge11.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\MainWindow.g.cs
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\App.g.cs
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11_MarkupCompile.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11_MarkupCompile.lref
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\MainWindow.baml
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.g.resources
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.Properties.Resources.resources
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.csproj.GenerateResource.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge11\obj\Debug\Challenge11.pdb

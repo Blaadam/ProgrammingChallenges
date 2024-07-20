@@ -1,0 +1,17 @@
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\bin\Debug\Challenge14.exe.config
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\bin\Debug\Challenge14.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\bin\Debug\Challenge14.pdb
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.csproj.AssemblyReference.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\LoadingScreen.g.cs
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\MainWindow.g.cs
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\App.g.cs
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14_MarkupCompile.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14_MarkupCompile.lref
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\LoadingScreen.baml
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\MainWindow.baml
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.g.resources
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.Properties.Resources.resources
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.csproj.GenerateResource.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.exe
+C:\Users\AdamW\source\repos\ProgrammingChallenges\ProjectSolutions\Challenge14\obj\Debug\Challenge14.pdb
